@@ -1,0 +1,41 @@
+body {
+	/* background: #000 !important; */
+}
+.count {
+	text-align: center;
+	font-size: 2.5rem;
+}
+.namePlayer {
+	text-align: center;
+}
+.start {
+	position: relative;
+	width: 80px;
+	left: 50%;
+	transform: translate(-50%);
+	background-color: #489;
+	padding: 1 2rem;
+}
+.displayPlayer {
+	font-size: 1.5rem;
+}
+
+.timer {
+	position: relative;
+	left: 90%;
+	border: 2px solid #489;
+	width: 120px;
+	height: 40px;
+}
+
+.hole {
+	background: #000;
+	border-radius: 100%;
+	width: 150px;
+	height: 150px;
+	margin: 0 auto;
+}
+img {
+	width: 80%;
+	height: 80%;
+}
